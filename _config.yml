@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Dan Ofer
-description: Dan Ofer's website & Blog
+title: Dan's blog
+description: Dan Ofer's personal blog & website
 github_username: ddofer
 
 # Email and twitter are optional:
 email:
-twitter_username:danofer
+twitter_username: danofer
 
 # Set this to true to get LaTeX math equation support
 use_math:
