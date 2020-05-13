@@ -1,7 +1,21 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Welcome to my blog. 
 
-![Image of fast.ai logo](images/logo.png)
+I am a data scientist, researcher, photographer, bookworm and full-time geek.
 
-## This is a title
+## Portfolio Links
+My aggregate portfolios:
+* [My Github](https://github.com/ddofer): https://github.com/ddofer
+* [My talks/lectures/workshop slides:]https://github.com/ddofer/talk): https://github.com/ddofer/talk
+* [Academic publications - Google Scholar]: (https://scholar.google.com/citations?user=uDx2ItYAAAAJ) https://scholar.google.com/citations?user=uDx2ItYAAAAJ
+* [Kaggle Profile](https://www.kaggle.com/danofer) (competitive data science & machine learning): https://www.kaggle.com/danofer
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+* Photography:
+  * Dan Ofer Photography on Facebook (rarely updated): https://www.facebook.com/danoferphoto/ -  @danoferphoto
+  * [Personal Facebook profile & photos](https://www.facebook.com/ddofer) (frequently updated): https://www.facebook.com/ddofer
+  * [500px](http://500px.com/DanOfer): http://500px.com/DanOfer
+  * Midburn (Burning Man Israel) - [Deep Dreaming/Neural art style art exhibit](https://imgur.com/a/GwE7S): https://imgur.com/a/GwE7S
+    * Photos from other Midburn events are on the websites for each year
+  
+  
+
+
